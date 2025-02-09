@@ -1,0 +1,572 @@
+{
+            "Derechos Humanos": {
+                "<span class='subrayado5'>Sede TEDH</span>": {
+                    "texto": "La sede del Tribunal Europeo de Derechos Humanos se establece en <span class='color5'>Estrasburgo</span> (Francia) <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/>",
+                    "hashtags": ["TEDH", "Tribunal", "Europeo","Estrasburgo", "Francia", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                },
+
+                "<span class='subrayado5'>Sede CPT</span>": {      
+                    "texto": "Se establece en <span class='color5'>Estrasburgo</span> (Francia) <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/> <br> 💡 <small> CPT = Comité Europeo para la prevención de la Tortura y de las penas o Tratos Inhumanos o Degradantes.</small>",
+                    "hashtags": ["CPT","Comité", "Europeo", "prevención", "Tortura", "penas", "tratos","Crueles", "inhumanos", "degradantes", "Estrasburgo", "Francia", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                },
+
+                "<span class='subrayado5'>Consejo de Europa</span>": {
+                    "texto": " Se establece en <span class='color5'>Estrasburgo</span> (Francia) <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/>",
+                    "hashtags": ["Consejo", "Europa", "Estrasburgo", "Francia", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                },
+
+                "<span class='subrayado5'>Sede CAT</span>": {
+                    "texto": "Se establece en <span class='color5'>Ginebra</span> (Suiza) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180552-421a8bbb.png' alt='chincheta'/> <br> 💡 CAT = <small> Comité contra la Tortura.</small> ",
+                    "hashtags": ["CAT","Comité","Tortura","Ginebra", "Suiza", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                },
+
+
+                "<span class='subrayado5'>Sede SPT</span>": {
+                    "texto": "La sede del Subcomité para la Prevención de la Tortura se establece en <span class='color5'>Ginebra</span> (Suiza) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180552-421a8bbb.png' alt='chincheta'/>",
+                    "hashtags": ["SPT","Subcomité", "Prevención", "Tortura","crueles", "tratos", "inhumanos", "degradantes",  "Ginebra", "Suiza","Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                },
+
+
+                "<span class='subrayado5'>Sede AEMA</span>": {    
+                    "texto": " La sede de la Agencia Europea de Medio Ambiente se establece en <span class='color5'>Copenhague</span> (Dinamarca) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207170704-21b753bb.png' alt='chincheta'/>",
+                    "hashtags": ["AEMA","Agencia", "Europea", "Medio", "Ambiente", "Copenhague", "Dinamarca", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                },
+
+
+                "<span class='subrayado5'>Sede ACNUR</span>": {
+                    "texto": " La sede del Alto Comisionado de las Naciones Unidas para los Refugiados se establece en <span class='color5'>Ginebra</span> (Suiza) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180552-421a8bbb.png' alt='chincheta'/> <br><img width='30' height='30' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207114804-c56e1a9d-xl.gif' alt='chincheta' /> Así como su Comité Ejecutivo (EXCOM)",
+                    "hashtags": ["ACNUR", "alto", "comisionado", "Naciones", "unidas", "Refugiados", "Ginebra", "Suiza", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                },
+
+                "<span class='subrayado5'>Sede FEM</span>": {
+                    "texto": "La sede del Foro Económico Mundial se establece en <span class='color5'>Ginebra</span> (Suiza) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180552-421a8bbb.png' alt='chincheta'/> <br><img width='30' height='30' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207114804-c56e1a9d-xl.gif' alt='chincheta' /> También conocido como Foro de Davos.",    
+                    "hashtags": ["FEM", "Foro", "económico", "mundial", "Ginebra", "Suiza", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                },
+
+
+                "<span class='subrayado5'>Sede FSM:</span>": {
+                    "texto": "La sede del Foro Social Mundial se establece en <span class='color5'>Porto Alegre</span> (Brasil) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180807-385efebc.png' alt='chincheta'/>",                                               
+                    "hashtags": ["fsm", "foro", "social", "mundial", "Porto", "Alegre","Brasil", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                },
+
+                "<span class='subrayado5'>Sede Secretaria del FSM:</span>": {
+                    "texto": "<span class='color5'>Porto Alegre</span> (Brasil) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180807-385efebc.png' alt='chincheta'/>",                                               
+                    "hashtags": ["Secretaría","foro", "social", "mundial","fsm", "Porto", "Alegre", "Brasil", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                },
+
+                "<span class='subrayado5'>Sede Banco Mundial</span>": {
+                    "texto": "<span class='color5'>Washington D.C.</span>   (EEUU)     <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207170622-c111d8a7-xx.png' alt='chincheta'/> ",
+                    "hashtags": ["banco", "mundial","Washington", "D.C","EEUU", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]     
+                },
+
+                
+
+                "<span class='subrayado5'>Sede FMI</span>": {
+                    "texto": "La sede del Fondo Monetario Internacional se establece en <span class='color5'>Washington D.C.</span> (EEUU) <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207170622-c111d8a7-xx.png' alt='chincheta'/>",
+                    "hashtags": ["fondo", "monetario", "internacional","Washington", "D.C", "EEUU", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]     
+                },
+
+                
+                          
+                
+                "<span class='subrayado5'>Sede EASO</span>": {    
+                    "texto": "La Oficina Europea de Apoyo al Asilo se establece en <span class='color5'>La Valeta</span> (Malta) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207173442-99c6e744.png' alt='chincheta'/>",
+                    "hashtags": ["Oficina", "Europea", "Apoyo", "Asilo", "Valeta", "Malta", "Extranjería", "sociología", "sedes", "Geopol"]
+                },
+
+
+                "<span class='subrayado5'>Sede PNUMA</span>": {    
+                    "texto": "La sede principal del Programa de Naciones Unidas para Medio Ambiente se establece en <span class='color5'>Nairobi</span> (Kenia) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207170647-97cba53d.png' alt='chincheta'/>",
+                    "hashtags": ["PNUMA", "principal", "Programa", "Naciones", "Unidas",  "Medio", "Ambiente", "Nairobi", "kenia", "sociología", "sedes", "Geopol"]
+                },
+
+                "<span class='subrayado5'>Sede central de <span class=cursiva>Greenpeace</span></span>": {    
+                    "texto": "<span class='color5'>Ámsterdam</span> (Países Bajos) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207170744-5fcdbfa3.png' alt='chincheta'/>",
+                    "hashtags": ["Greenpeace", "Países","Bajos", "Ámsterdam", "sociología", "sedes", "Geopol"]
+                },
+  
+                              
+                                   
+
+                "<span class='subrayado5'>Sede central OIT</span>": {    
+                    "texto": "La sede central de la Organización Central del Trabajo se establece en <span class='color5'>Ginebra</span> (Suiza) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180552-421a8bbb.png' alt='chincheta'/>",
+                    "hashtags": ["OIT","organización", "internacional", "trabajo", "Ginebra", "sociología", "sedes", "Geopol"]
+                },
+
+
+                "<span class='subrayado5'>Sede CPI</span>": {
+                    "texto": "La sede de la Corte Penal Internacional se establece en <span class='color5'>La Haya</span> (Países Bajos) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207170744-5fcdbfa3.png' alt='chincheta'/>",
+                    "hashtags": ["CPI","Corte", "penal", "internacional", "Haya", "sociología", "sedes", "Geopol"]
+                },
+
+
+
+                "<span class='subrayado5'>Sede UNODC </span>": {
+                    "texto": "La sede de la Oficina de las Naciones Unidas contra la Droga y el Delito se establece en  <span class='color5'>Viena</span> (Austria) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207170925-de74ab84.png' alt='chincheta'/>",
+                    "hashtags": ["Oficina", "Naciones", "Unidas", "Droga", "Delito","Viena", "sociología", "sedes", "Geopol"]
+                }
+          
+
+        },
+
+
+        
+        
+
+
+
+
+        
+
+"Unión Europea": {
+    "<span class='subrayado5'>Sede del Consejo Europeo</span>": {
+        "texto": "<span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/> <br><img width='15' height='15' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207114804-c56e1a9d-xl.gif' alt='chincheta' /> Cuidado con confundir con el Consejo de Europa (<span class='color5'>Estrasburgo</span>)  <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/>",
+        "hashtags": ["Consejo", "Europeo", "Bruselas", "Bégica", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+    "<span class='subrayado5'>Sede del Consejo </span>": {
+        "texto": "La sede del Consejo de la Unión Europea (Consejo) se establece en <span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/> <br> <img width='15' height='15' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207114804-c56e1a9d-xl.gif' alt='chincheta' /> Salvo en los meses <span class=blue>A-J-O</span> ( Abril [<span class='blue'>4</span>] + Junio [<span class='blue'>6</span>] = Octubre [<span class='blue'>10</span>] celebradas en <span class='color5'>Luxemburgo</span> ) <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122438-f7fc6a8b-xs.png' alt='chincheta'/>",
+        "hashtags": ["Consejo", "Bruselas","Luxemburgo","Bélgica", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+    "<span class='subrayado5'>Sede de la Comisión Europea</span>": {
+        "texto": "<span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/>",
+        "hashtags": ["Comisión", "Bélgica","Bruselas", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+    "<span class='subrayado5'>Sede CESE</span>": {
+        "texto": "La sede del Comité Económico y Social Europeo se establece en <span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/>",
+        "hashtags": ["CESE", "Comité", "Económico", "Social", "Europeo", "Bélgica","Bruselas", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+    
+    "<span class='subrayado5'>Sede CdR</span>": {
+        "texto": "La sede del Comité Europeo de las Regiones / Comité de las Regiones se establece en <span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/>",
+        "hashtags": ["CDR", "Comité", "Europeo", "Regiones", "Bélgica","Bruselas", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+    "<span class='subrayado5'>Sede SEAE</span>": {
+       "texto": "La sede del Servicio Europeo de Acción Exterior se establece en <span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/>",
+        "hashtags": ["SEAE", "Servicio", "Europeo", "Acción", "Exterior", "Bélgica","Bruselas", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+    "<span class='subrayado5'>Sede OLAF</span></span>": {   
+        "texto": " La sede la Oficina Europea de Lucha contra el Fraude se establece en <span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/>",
+        "hashtags": ["OLAF", "Oficina", "Europea", "Lucha", "Fraude","Bélgica","Bruselas", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+    
+    "<span class='subrayado5'>Sede EPSO</span></small></span>": {    
+        "texto": " La sede de la Oficina Europea de Selección de Personal se establece en <span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/>",
+        "hashtags": ["EPSO", "oficina", "Europea", "Selección", "Personal", "Bélgica","Bruselas", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    }, 
+
+    
+    "<span class='subrayado5'>Sede CEPD</span></span>": {
+        "texto": "Las sedes del Comité Europeo de Protección de datos se establece en <span class='color5'>Bruselas</span>  (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/>",     
+        "hashtags": ["CEPD", "Comité", "Europeo", "Protección", "Datos",  "Bélgica","Bruselas", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+    "<span class='subrayado5'>Sede EPDS</span></span>": {
+        "texto": "Las sedes del Supervisor Europeo de Protección de Datos se establece en <span class='color5'>Bruselas</span>  (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/>",     
+        "hashtags": ["EPDS", "Supervisor", "Europeo", "protección", "datos", "Bélgica","Bruselas", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+
+   
+    "<span class='subrayado5'>Sede AR</span>": {
+        "texto": "La sede del Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad se establece en <span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/>",
+        "hashtags": ["Alto", "Representante", "asuntos", "exteriores", "política", "seguridad", "Bélgica","Bruselas", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+
+
+
+    "<span class='subrayado5'>Sede del TJUE.</span>": {
+        "texto": "La sede del Tribunal de Justicia de la Unión Europea se establece en <span class='color5'>Luxemburgo</span> <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122438-f7fc6a8b-xs.png' alt='chincheta'/>",
+        "hashtags": ["tribunal", "justicia", "Luxemburgo", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+    "<span class='subrayado5'>Sede del Tribunal de Cuentas.</span>": {
+        "texto": "<span class='color5'>Luxemburgo</span> <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122438-f7fc6a8b-xs.png' alt='chincheta'/>",
+        "hashtags": ["Tribunal", "cuentas", "Luxemburgo", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+    
+    "<span class='subrayado5'>Sede de la Fiscalía Europea</span>": {
+        "texto": "<span class='color5'>Luxemburgo</span> <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122438-f7fc6a8b-xs.png' alt='chincheta'/>",
+        "hashtags": ["fiscalía", "Luxemburgo", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+
+
+    "<span class='subrayado5'>Sede de la OP</span>": {                   
+        "texto": "La sede del la Oficina de Publicaciones de la Unión Europea se establece en <span class='color5'>Luxemburgo</span> <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122438-f7fc6a8b-xs.png' alt='chincheta'/>",
+        "hashtags": ["Oficina","publicaciones","Luxemburgo", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+
+    "<span class='subrayado5'>Sede BEI</span>": {       
+        "texto": "La sede del Banco Europeo de Inversiones se establece en <span class='color5'>Luxemburgo</span> <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122438-f7fc6a8b-xs.png' alt='chincheta'/>",
+        "hashtags": ["Banco", "Europeo", "inversiones","Luxemburgo", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+
+    
+
+
+    "<span class='subrayado5'>Sedes del Parlamento Europeo</span>": {       
+        "texto": "<span class='color5'>Estrasburgo</span> (Francia) <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/>  <br> <img width='15' height='15' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207114804-c56e1a9d-xl.gif' alt='chincheta' /> Sus Comisiones y sesiones ADICIONALES las encontramos en <span class='color5'>Bruselas</span> <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/> <br> <img width='15' height='15' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207114804-c56e1a9d-xl.gif' alt='chincheta' /> Su Secretaría General la encontramos en <span class='color5'>Luxemburgo</span> <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122438-f7fc6a8b-xs.png' alt='chincheta'/>",
+        "hashtags": ["sesiones", "adicionales", "comisiones", "Parlamento", "europeo", "Estrasburgo","francia", "luxemburgo", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+
+    
+
+
+    "<span class='subrayado5'>Sede del Defensor del Pueblo Europeo</span>": {      
+        "texto": "<span class='color5'>Estrasburgo</span> (Francia) <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/>",
+        "hashtags": ["defensor", "pueblo", "europeo", "Estrasburgo", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+    
+    
+    "<span class='subrayado5'>Sede BCE</span>": {                                     
+        "texto": "La sede del Banco Central Europeo se establece en <span class='color5'>Frankfurt</span> (Alemania) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207171040-7ff3ba48.png' alt='chincheta'/>",
+        "hashtags": ["banco", "central", "europeo", "Frankfurt", "Alemania", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+   
+    },
+
+
+    "<span class='subrayado5'>Sede CEPOL</span>": {      
+        "texto": "Se establece en <span class='color5'>Budapest</span> (Hungría) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/09/20250209121212-135c5311.png' alt='chincheta'/> <br> 💡CEPOL = <small>Agencia Europea para la Formación Policial.</small>",
+        "hashtags": ["CEPOL", "Agencia", "formación", "policial","Budapest", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+    
+
+    "<span class='subrayado5'>Sede Europol</span>": {      
+        "texto": "Se establece en <span class='color5'>La Haya</span> (Países Bajos) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207170744-5fcdbfa3.png' alt='chincheta'/> <br> 💡Europol = <small>Oficina Europea de Policía</small> = <small> Agencia de la Unión Europea para la Cooperación Policial. </small>",
+        "hashtags": ["europol", "agencia", "cooperación", " policial","lucha", "crimen", "terrorismo", "Haya","países", "bajos", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+    "<span class='subrayado5'>Sede Eurojust</span>": {      
+        "texto": "La sede de la Agencia de la Unión Europea para la Cooperación Judicial Penal se establece en <span class='color5'>La Haya</span> (Países Bajos) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207170744-5fcdbfa3.png' alt='chincheta'/> <br> 💡Eurojust = <small>Agencia de la Unión Europea para la Cooperación Judicial Penal.</small>",
+        "hashtags": ["eurojust", "Agencia", "Cooperación", "Judicial", "Penal", "Haya","países", "bajos", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+    
+    
+    "<span class='subrayado5'>Sede Eurogendorf</span>": {                                   
+        "texto": "<span class='color5'>Vicenza</span> (Italia) <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207170951-7cfe3673-xx.png' alt='chincheta'/>",
+        "hashtags": ["Eurogndorf", "Vicenza", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+
+    "<span class='subrayado5'>Sede Interpol</span>": {                                     
+        "texto": "La sede de Interpol se establece en <span class='color5'>Lyon</span> (Francia) <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/>",
+        "hashtags": ["Lyon","Francia", "interpol", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+    
+    
+    "<span class='subrayado5'>Sede CMII</span>": {                                     
+        "texto": "La sede del Complejo Mundial de INTERPOL para la Innovación se establece en <span class='color5'>Singapur</span> <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/09/20250209120752-14dd04c1.png' alt='chincheta'/>",
+        "hashtags": ["CMII", "complejo", "mundial", "interpol", "innovación", "Singapur", "interpol", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+    "<span class='subrayado5'>Sede Frontex</span>": {                                     
+        "texto": "La sede de la Agencia Europea de Control de Fronteras (Frontex) se establece en <span class='color5'>Varsovia</span>. (Polonia) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/09/20250209121803-330bfdc6.png' alt='chincheta'/>",
+        "hashtags": ["frontex", "agencia", "control", "fonteras", "Varsovia", "polonia", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    },
+    
+    "<span class='subrayado5'>Sede OSCE</span>": {                                     
+        "texto": "La sede de la Organización para la Seguridad y la Cooperación en Europa se establece en <span class='color5'>Viena</span>. (Austria) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207170925-de74ab84.png' alt='chincheta'/>",
+        "hashtags": ["OSCE", "Organización", "seguridad", "Cooperación", "Varsovia", "Frontex", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
+    }
+    
+    
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+"Dirección General de la Policía": {
+    "<span class='subrayado5'>Sede CPD</span>": {
+        "texto": " La sede del Centro de Proceso de Datos del CNP se establece en <span class='color5'>El Escorial</span> (Madrid) <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122348-d23aa8e3-xs.png' alt='chincheta'/>",
+        "hashtags": ["cpd", "Centro", "proceso", "datos", "cnp", "Escorial","madrid", "centro", "proceso", "datos", "policía", "sedes","jurídicas", "Geopol"]
+    },
+
+    "<span class='subrayado5'>Sede CPO</span>": {
+        "texto": "La sede del Centro de Prácticas Operativas se establece en <span class='color5'>Linares</span> (Jaén) <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122348-d23aa8e3-xs.png' alt='chincheta'/>",
+        "hashtags": ["cpo", "Linares","jaén", "centro", "prácticas", "operativas", "policía", "sedes","jurídicas", "Geopol"]
+    },
+
+    "<span class='subrayado5'>Sede CAE</span>": {
+        "texto": "La sede del Centro de Actualización y Especialización se establece en <span class='color5'>Madrid, Ávila, Linares</span> (Jaén) <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122348-d23aa8e3-xs.png' alt='chincheta'/> <span class='blue'>Me CAE M-A-L</span>.",
+        "hashtags": ["cae", "Madrid", "Ávila", "Linares","jaén", "centro", "actualización", "especialización", "policía", "sedes", "jurídicas", "Geopol"]
+    },
+
+    "<span class='subrayado5'>Sede IBERPOL</span>": {
+        "texto": " La sede de la Secretaría Permanente de la Escuela Iberoamérica de Policía se establece en <span class='color5'>la ENP</span>, en <span class='color5'>Ávila</span> <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122348-d23aa8e3-xs.png' alt='chincheta'/>",
+        "hashtags": ["Ávila","secretaría", "permanente", "escuela", "iberamérica", "policía", "IBERPOL", "policía", "sedes", "jurídicas", "Geopol"]
+    }
+
+
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+"Ministerio del Interior": {
+    "<span class='subrayado5'>Sede del CETSE </span>": {             
+        "texto": "La sede del Centro Tecnológico de Seguridad se establece en <span class='color5'>El Pardo</span> (Madrid) <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122348-d23aa8e3-xs.png' alt='chincheta'/>",
+        "hashtags": ["CETSE", "Centro", "Tecnológico", "Seguridad", "Pardo", "Ministerio","Interior", "sedes","jurídicas", "Geopol"]     
+}                                  
+},
+
+
+
+
+
+ 
+"Violencia de género": {
+    "<span class='subrayado5'>Sede EIGE</span>": {
+        "texto": "La sede del Instituto Europeo para la Igualdad de Género se establece en <span class='color5'> Vilna</span> (Lituania) <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207170859-954658a9-xx.png' alt='chincheta'/>",                                    
+        "hashtags": ["instituto", "europeo", "igualdad", "género", "Vilna", "Lituania", "viogen", "sedes","jurídicas", "Geopol"]
+    },
+    "<span class='subrayado6'>Convenio de Estambul</span>": {
+        "texto": "El día 11 de mayo de 2011, el Plenipotenciario de España firmó ad referendum en <span class='color6'>Estambul</span> (Turquía) el Convenio del <span class='color6'>Consejo de Europa</span> sobre prevención y lucha contra la violencia contra la mujer y la violencia doméstica, hecho en la misma ciudad y fecha.",                                     
+        "hashtags": ["convenio", "2011", "Estambul", "Consejo", "Europa", "viogen","jurídicas","otros","plazos", "Geopol"]
+    }
+},
+
+
+
+
+
+
+
+ 
+     "Ley 8/2011": {
+        "<span class='subrayado2'>El Catálogo Nacional de Infraestructuras Estratégicas</span>": {
+            "texto": "Tiene, conforme a lo dispuesto en la legislación vigente en materia de secretos oficiales, la calificación de <span class='color2'>secreto</span>.",
+            "hashtags": ["CNIE", "catálogo", "nacional", "infraestructuras", "estratégicas", "secreto", "Ley8/2011", "PIC", "jurídicas", "caracteres", "Geopol"]
+        },
+
+        "<span class='subrayado5'>Sede CNPIC</span>": {          
+                    "texto": "La sede del Centro Nacional de Protección de Infraestructuras CRÍTICAS se establece en <span class='color5'>El Pardo</span> (Madrid) <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122348-d23aa8e3-xs.png' alt='chincheta'/>",
+                    "hashtags": ["CNPIC", "centro", "nacional", "protección", "infraestructuras", "críticas", "Pardo", "madrid", "Ministerio","Interior", "PIC", "sedes","jurídicas", "Geopol"]                                       
+        },
+
+        "<span class='subrayado6'>Dependencia orgánica del CNPIC </span>": {         
+                    "texto": " Dependencia <span class='color6'>orgánica</span> de <span class='color3'>la Secretaría de Estado de Seguridad</span>.",
+                    "hashtags": ["CNPIC", "centro", "nacional", "protección", "infraestructuras", "críticas", "Pardo", "PIC","jurídicas", "OTROS", "Geopol"]                                       
+        }
+    },
+
+
+
+
+
+
+
+
+
+
+    "Inteligencia": {
+        "<span class='subrayado2'>Directiva de inteligencia</span>": {
+            "texto": "El ciclo de Inteligencia se inicia con la aprobación anual de la Directiva de Inteligencia por parte de la Comisión Delegada del Gobierno para Asuntos deInteligencia y del presidente del Gobierno. La directiva es un documento con carácter <span class='color2'>secreto</span> que recoge los objetivos o necesidades de Inteligencia del Gobierno.",
+            "hashtags": ["ciclo", "inteligencia","a\u00f1o", "secreto", "caracteres","específico", "Geopol"]
+        },
+        "<span class='subrayado5'>Sede Eurosint</span>": {
+            "texto": "La sede del conocido como <span class='cursiva'>European open source intelligence forum</span>, se establece en <span class='color5'>Bruselas</span> <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/> (Bélgica)",
+            "hashtags": [ "Eurosint", "Bélgica","Bruselas", "sedes","específico", "Geopol"]
+        }
+
+    },
+    
+    "TICS": {
+        "<span class='subrayado5'>Sede ISO</span>": {
+            "texto": "La Organización Internacional de Normalización es una organización independiente y no-gubernamental, su sede se establece en <span class='color5'>Ginebra</span> (Suiza) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180552-421a8bbb.png' alt='chincheta'/>",
+            "hashtags": [ "Ginebra","Organización", "Internacional","Normalización","sedes", "específico", "Geopol"]
+        }
+
+        
+        
+    },
+
+
+
+     "Ciberdelincuencia": {
+        "<span class='subrayado6'>El Convenio sobre la Ciberdelincuencia</span>": {
+            "texto": "Hecho en <span class='color5'>Budapest</span> el 23 de noviembre de <span class='color4'>2001</span>, con entrada en vigor el 1 de julio de <span class='color4'>2004</span>(c.general) y <span class='color4'>2010</span> en España.",
+            "hashtags": ["convenio", "ciberdelincuencia", "Budapest", "plazo", "2001","2004", "OTROS", "específico", "Geopol"]
+        }
+    },
+
+    "Ciberdeseguridad": {
+        "<span class='subrayado5'>Sede ECCC</span>": {
+            "texto": "La sede del Centro Europeo de competencia industrial tecnológica y de investigación en ciberseguridad se establece en <span class='color5'>Bucarest</span> (Rumanía) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/09/20250209121735-9411df82.png' alt='chincheta'/>",
+            "hashtags": ["Centro", "europeo", "competencia", "industrial", "tecnológica", "investigación", "ciberseguridad", "Bucarest", "Rumanía", "sedes", "específico", "Geopol"]
+        }
+    },
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "LO 2/1986": {
+            "<span class='subrayado1'>Principio fundamental de la materia</span>": {
+                "texto": "<span class='color1'>Principio de la cooperación recíproca y de coordinación🥇</span.",
+                "hashtags": ["cooperación", "recíproca", "LO2/1986", "policía", "principios","jurídicas", "geopol"]
+            },
+            "<span class='subrayado1'>Necesidad de intercomunicación</span>": {
+                "texto": "Sobre la base de la práctica indivisibilidad de la seguridad pública y del consiguiente carácter concurrente del ejercicio de la competencia sobre la misma, dentro del respeto a la autonomía de las distintas esferas de la Administración Pública, la Ley ha querido resaltar la necesidad de intercomunicación entre los cuerpos de seguridad de dichas esferas administrativas y, por ello, inmediatamente después de enumerar en el artículo 2.º cuales son esos cuerpos, proclama en su artículo 3.º, como un elemento constitutivo de todos ellos, el <span class='color1'>principio de cooperación recíproca y de coordinación orgánica</span>.",
+                "hashtags": ["cooperación", "recíproca", "LO2/1986", "policía", "principios","jurídicas", "geopol"]
+            },
+            "<span class='subrayado1'>Actuación de las FCS</span>": {
+                "texto": "Los miembros de las Fuerzas y Cuerpos de Seguridad ajustarán su actuación al <span class='color1'>principio de cooperación recíproca</span>🤜🏼🤛🏼 y su coordinación se efectuará a través de los órganos que a tal efecto establece esta Ley.",
+                "hashtags": ["cooperación", "recíproca", "LO2/1986", "policía", "principios","jurídicas", "geopol"]
+            },
+            "<span class='subrayado1'>FCSE con policías autonómicas</span>": {
+                "texto": ". Los miembros de las Fuerzas y Cuerpos de Seguridad del Estado y de los Cuerpos de Policía de las Comunidades Autónomas deberán prestarse mutuo auxilio e información recíproca en el ejercicio de sus funciones respectivas.",
+                "hashtags": ["recíproca", "LO2/1986", "policía", "principios","jurídicas", "geopol"]
+            },
+            "<span class='subrayado1'>Adecuación al ordenamiento jurídico</span>": {
+                "texto": "<span class='color1'>Principio de obediencia debida🫡</span>, en ningún caso los miembros de las FCS podrá amparar actos manifiestamente ilegales ordenados por los superiores.",
+                "hashtags": ["LO2/1986", "policía", "principios","jurídicas", "geopol"]
+            },
+            "<span class='subrayado1'>Principios básicos de actuación</span>": {
+                "texto": "“<span class='color1'>ARTE DE SER</span>” Adecuación al ordenamiento jurídico (especialmente), relaciones con la comunidad (singularmente), tratamientos con los detenidos (especialmente), dedicación profesional, secreto profesional, responsabilidad",
+                "hashtags": ["LO2/1986", "policía", "principios","jurídicas", "geopol"]
+            },
+            "<span class='subrayado1'>Promoción profesional social y humana de las FCS</span>": {
+                "texto": "Los Poderes Públicos promoverán las condiciones más favorables para una adecuada promoción profesional, social y humana de los miembros de las Fuerzas y Cuerpos de Seguridad, de acuerdo con los <span class='color1'>principios de objetividad, igualdad de oportunidades, mérito y capacidad</span>.",
+                "hashtags": ["capacidad", "objetividad", "igualdad", "mérito", "LO2/1986", "policía", "principios","jurídicas", "geopol"]
+            },
+            "<span class='subrayado1'>Provisión de los puestos de servicio</span>": {
+                "texto": "Los puestos de servicio en las respectivas categorías se proveerán conforme a los <span class='color1'>principios <span class='blue'>M-A-C</span>🍔  de <span class='color1'>mérito, capacidad y antigüedad</span></span>  a tenor de lo dispuesto en la correspondiente reglamentación.",
+                "hashtags": ["mérito", "capacidad", "antigüedad", "principios", "LO2/1986", "policía", "principios","jurídicas", "geopol"]
+            },
+            "<span class='subrayado2'>Principios de la adscripción de Unidades del CNP a las CCAA</span>": {
+                "texto": "Las condiciones de dicha adscripción se determinarán en acuerdos administrativos de colaboración de carácter <U>específico</u>, que deberán respetar, en todo caso, los siguientes principios: <BR><span class='color1'>1</span>.La adscripción deberá afectar a Unidades operativas completas 🚔 y no a miembros individuales del Cuerpo👮🏽‍♂️  <BR><span class='color1'>2</span>. Las Unidades adscritas dependerán, funcionalmente, de las Autoridades de las CCAA📍 y orgánicamente del Ministerio del Interior👨🏻‍🦳  <BR><span class='color1'>3</span>. Actuarán siempre bajo el mando de sus Jefes naturales.  <BR><span class='color1'>4</span>.En cualquier momento podrán ser reemplazadas por otras, a iniciativa de las Autoridades estatales, oídas las Autoridades de las CCAA.",
+                "hashtags": ["caracteres", "principios", "LO2/1986", "policía", "principios","jurídicas","geopol"]
+            },
+            "<span class='subrayado2'> Mecanismos orgánicos de coordinación</span>": {
+                "texto": "Más que de coordinación coercitiva o jerárquica, se trata de una coordinación de <span class='color2'>carácter informativo</span>, teniendo en cuenta el <span class='color2'>carácter paritario</span> de los órganos previstos para ello(Consejo de Política de Seguridad y su Comité de Expertos)<br>En los niveles <u>autonómico y local</u> se recoge la <u>posibilidad</u> de constituir juntas de seguridad en las CCAA y en los municipios que dispongan de <u>cuerpos de policía propios</u>, para armonizar su actuación y la de las FCSE, como <u>mecanismo complementario de coordinación operativa</U>",
+                "hashtags": ["paritario", "caracteres", "LO2/1986", "policía","jurídicas", "geopol"]
+            },
+            "<span class='subrayado2'> La formación y perfeccionamiento de los miembros de las FCS</span>": {
+                "texto": " Tendrá <span class='color2'>carácter profesional y permanente </span>.",
+                "hashtags": ["profesional", "permanente", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+            },
+            "<span class='subrayado2'> Agentes de la autoridad</span>": {
+                "texto": "En el ejercicio de sus funciones, los miembros de las FCS tendrán a todos los efectos legales el <span class='color2'>carácter de agentes de la autoridad</span>.<br>Cuando se cometa delito de atentado, empleando en su ejecución armas de fuego, explosivos u otros medios de agresión de análoga peligrosidad, que puedan poner en peligro grave la integridad física de los miembros de las FCS, tendrán al efecto de su protección penal la consideración de <u>autoridad</u>.",
+                "hashtags": [ "autoridad", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+            },
+            "<span class='subrayado2'> Consideración armada de la GC</span>": {
+                "texto": "La Guardia Civil sólo tendrá consideración de fuerza armada en el cumplimiento de las misiones de <span class='color2'>carácter militar</span> que se le encomienden, de acuerdo con el ordenamiento jurídico.",
+                "hashtags": [ "militar", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+            },
+
+            "<span class='subrayado2'> Dependencia de la GC</span>": {
+                "texto": " La Guardia Civil, que es un Instituto Armado de naturaleza militar, dependiente del Ministro del Interior, en el desempeño de las funciones que esta Ley le atribuye, y del Ministro de Defensa en el cumplimiento de las misiones de  <span class='color2'>carácter militar</span> que éste o <u>el Gobierno</u> le encomienden.<br> En tiempo de <u>guerra</u> y durante el <u>estado de sitio</u>, dependerá exclusivamente del Ministro de Defensa.",
+                "hashtags": [ "militar", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+            },
+
+            "<span class='subrayado2'>Qué dispone el Ministro de Defensa en la GC</span>": {
+                "texto": "Dispondrá lo concerniente al régimen de ascensos y situaciones del personal, así como a las misiones de <span class='color2'>carácter militar</span> que se encomienden a la GC, ejerciendo, respecto al voluntariado especial para la prestación del servicio militar en la misma las competencias que normativamente le correspondan.",
+                "hashtags": [ "militar", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+            },
+
+            "<span class='subrayado2'>Policía Judicial</span>": {
+                "texto": "Para el cumplimiento de las funciones de policía judicial que recoge el artículo 126 de la CE a las FCSE, tendrán <span class='color2'>carácter colaborador</span> el personal de Policía de las Comunidades Autónomas y de las Corporaciones Locales.",
+                "hashtags": ["colaborador", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+            },
+
+            "<span class='subrayado2'>Organización de Unidades de PJ</span>": {
+                "texto": "  El Ministerio del Interior organizará con funcionarios de las FCSE que cuenten con la adecuada formación especializada, Unidades de Policía Judicial, atendiendo a criterios territoriales y de especialización delictual, a las que corresponderá esta función con <span class='color2'>carácter permanente y especial</span>.",
+                "hashtags": ["permanente", "y", "especial","LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+            },
+
+            "<span class='subrayado2'>Carácter exclusivo de los funcionarios adscritos a PJ</span>": {
+                "texto": "Los funcionarios adscritos a las Unidades de Policía Judicial desempeñarán esa función con <span class='color2'>carácter exclusivo</span>, sin perjuicio de que puedan desarrollar también las misiones de prevención de la delincuencia y demás que se les encomienden, cuando las circunstancias lo requieran, de entre las correspondientes a las FCSE.",
+                "hashtags": ["exclusivo", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+            },
+
+            "<span class='subrayado2'>Carácter en diligencias y actuaciones</span>": {
+                "texto": "En las diligencias o actuaciones que lleven a cabo, por encargo y bajo la supervisión de los Jueces, Tribunales o Fiscales competentes de lo Penal, los funcionarios integrantes de las Unidades de Policía Judicial tendrán el <span class='color2'>carácter de comisionados</span> de éstos, y podrán requerir el auxilio necesario de las Autoridades y, en su caso, de los particulares.",
+                "hashtags": [ "comisionado", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+            },
+
+            "<span class='subrayado2'>Funciones de las policías autonómicas</span>": {
+                "texto": "Las Comunidades Autónomas, que dispongan de cuerpos de policía propios, podrán ejercer, a través de sus Cuerpos de Policía funciones con <span class='color2'>carácter de propias, concurrentes o en colaboración, y de prestación simultánea e indiferenciada</span> con las FCSE",
+                "hashtags": [ "propias", "concurrente", "colaboración","LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+            },
+           
+            "<span class='subrayado2'>Competencias del CPS</span>": {
+                "texto": "Una de las competencias del Consejo de Política de Seguridad es <span class='blue'>A</span>probar directivas y recomendaciones de <span class='color2'>carácter general</span> (<span class='blue'>A-Í-A-Í</span>).",
+                "hashtags": [ "general", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+            },
+           
+            "<span class='subrayado2'>Competencias del Comité de Expertos</span>": {
+                "texto": "Tendrá la misión de asesorar técnicamente a aquél y preparar los asuntos que posteriormente vayan a ser debatidos en el Pleno del mismo y con <span class='color2'>carácter específico</span>:<br> 1. Elaborar y proponer fórmulas de coordinación. <br>2. Preparar acuerdos de cooperación. <br> 3. Proponer programas de formación y perfeccionamiento de las Policías. <br> 4. Elaborar planes de actuación conjunta. (<span class='blue'>P-E-P-E</span>).",
+                "hashtags": [ "general", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+            },
+           
+           
+            "<span class='subrayado3'>Composición del CPS</span>": {
+                "texto": " El Consejo de Política de Seguridad, estará presidido por <span class='color3'><u>el Ministro del Interior</u></span> e integrado por <span class='color3'>los Consejeros de Interior o Gobernación de las CCAA</span> y por <span class='color3'>un número igual de representantes del Estado designados por el Gobierno de la Nación</span>.",
+                "hashtags": [ "Consejo de Política de Seguridad", "LO2/1986", "policía", "órganos","jurídicas", "geopol"]
+            },
+
+            "<span class='subrayado3'>Comité de Expertos</span>": {
+                "texto": " Estará integrado por <span class='color3'>8 representantes, 4 del Estado y 4 de las CCAA</span>, designados estos últimos anualmente por los miembros del CPS que representen a las CCAA.",
+                "hashtags": [ "Comité", "de", "Expertos", "LO2/1986", "policía", "órganos","jurídicas", "geopol"]
+            },
+
+            
+            "<span class='subrayado3'>Las Juntas de Seguridad</span>": {
+                "texto": " En las CCAA que dispongan de Cuerpos de Policía propios <u>podrá </u></u> constituirse una Junta de Seguridad, integrada por <span class='color3'>igual número de representantes del Estado y de las Comunidades Autónomas</span>, con la misión de <u>coordinar la actuación de las FCSE y de los Cuerpos de Policía de las CCAA, en los términos que reglamentariamente se determinen</u>",
+                "hashtags": [ "Juntas", "de" ,"Seguridad","LO2/1986", "policía", "órganos","jurídicas", "geopol"]
+            },
+
+            
+
+            "<span class='subrayado4'>El Comité de Expertos</span>": {
+                "texto": " Dentro de la composición del Comité de Expertos, los 4 representantes de las CCAA</span>, serán designados <span class='color4'>anualmente</span> por los miembros del CPS que representen a las CCAA.",
+                "hashtags": [ "1","a\u00f1o", "un","LO2/1986", "policía", "plazos","jurídicas", "geopol"]
+            }
+
+
+        }
+    }
