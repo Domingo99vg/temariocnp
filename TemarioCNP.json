@@ -2,12 +2,12 @@
             "Derechos Humanos": {
                 "<span class='subrayado5'>Sede TEDH</span>": {
                     "texto": "La sede del Tribunal Europeo de Derechos Humanos se establece en <span class='color5'>Estrasburgo</span> (Francia) <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/>",
-                    "hashtags": ["TEDH", "Tribunal", "Europeo","Estrasburgo", "Francia", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                    "hashtags": ["Tribunal Europeo de Derechos Humanos", "TEDH", "Tribunal", "Europeo","Estrasburgo", "Francia", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
                 },
 
                 "<span class='subrayado5'>Sede CPT</span>": {      
                     "texto": "Se establece en <span class='color5'>Estrasburgo</span> (Francia) <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/> <br> 💡 <small> CPT = Comité Europeo para la prevención de la Tortura y de las penas o Tratos Inhumanos o Degradantes.</small>",
-                    "hashtags": ["CPT","Comité", "Europeo", "prevención", "Tortura", "penas", "tratos","Crueles", "inhumanos", "degradantes", "Estrasburgo", "Francia", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                    "hashtags": ["CPT","Comité", "Europeo", "Prevención", "Tortura", "Penas", "Tratos","Crueles", "Inhumanos", "Degradantes", "Estrasburgo", "Francia", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
                 },
 
                 "<span class='subrayado5'>Consejo de Europa</span>": {
@@ -23,7 +23,7 @@
 
                 "<span class='subrayado5'>Sede SPT</span>": {
                     "texto": "La sede del Subcomité para la Prevención de la Tortura se establece en <span class='color5'>Ginebra</span> (Suiza) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180552-421a8bbb.png' alt='chincheta'/>",
-                    "hashtags": ["SPT","Subcomité", "Prevención", "Tortura","crueles", "tratos", "inhumanos", "degradantes",  "Ginebra", "Suiza","Derechos", "Humanos", "sedes", "sociología", "Geopol"]
+                    "hashtags": ["SPT","Subcomité", "Prevención", "Tortura","crueles", "tratos", "inhumanos", "degradantes",  "Ginebra", "Suiza","Derechos Humanos", "Humanos", "sedes", "sociología", "Geopol"]
                 },
 
 
@@ -34,12 +34,12 @@
 
 
                 "<span class='subrayado5'>Sede ACNUR</span>": {
-                    "texto": " La sede del Alto Comisionado de las Naciones Unidas para los Refugiados se establece en <span class='color5'>Ginebra</span> (Suiza) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180552-421a8bbb.png' alt='chincheta'/> <br><img width='30' height='30' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207114804-c56e1a9d-xl.gif' alt='chincheta' /> Así como su Comité Ejecutivo (EXCOM)",
+                    "texto": " La sede del Alto Comisionado de las Naciones Unidas para los Refugiados se establece en <span class='color5'>Ginebra</span> (Suiza) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180552-421a8bbb.png' alt='chincheta'/> <br><img width='30' height='30' src='https://img.academia-geopol.es/upload/2025/02/10/20250210105016-81436482.png' alt='chincheta'/> Así como su Comité Ejecutivo (EXCOM)",
                     "hashtags": ["ACNUR", "alto", "comisionado", "Naciones", "unidas", "Refugiados", "Ginebra", "Suiza", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
                 },
 
                 "<span class='subrayado5'>Sede FEM</span>": {
-                    "texto": "La sede del Foro Económico Mundial se establece en <span class='color5'>Ginebra</span> (Suiza) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180552-421a8bbb.png' alt='chincheta'/> <br><img width='30' height='30' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207114804-c56e1a9d-xl.gif' alt='chincheta' /> También conocido como Foro de Davos.",    
+                    "texto": "La sede del Foro Económico Mundial se establece en <span class='color5'>Ginebra</span> (Suiza) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207180552-421a8bbb.png' alt='chincheta'/> <br><img width='30' height='30' src='https://img.academia-geopol.es/upload/2025/02/10/20250210105016-81436482.png' alt='chincheta'/> También conocido como Foro de Davos.",    
                     "hashtags": ["FEM", "Foro", "económico", "mundial", "Ginebra", "Suiza", "Derechos", "Humanos", "sedes", "sociología", "Geopol"]
                 },
 
@@ -120,12 +120,12 @@
 
 "Unión Europea": {
     "<span class='subrayado5'>Sede del Consejo Europeo</span>": {
-        "texto": "<span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/> <br><img width='15' height='15' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207114804-c56e1a9d-xl.gif' alt='chincheta' /> Cuidado con confundir con el Consejo de Europa (<span class='color5'>Estrasburgo</span>)  <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/>",
+        "texto": "<span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/> <br> <img width='30' height='30' src='https://img.academia-geopol.es/upload/2025/02/10/20250210105016-81436482.png' alt='chincheta'/> Cuidado con confundir con el Consejo de Europa (<span class='color5'>Estrasburgo</span>)  <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/>",
         "hashtags": ["Consejo", "Europeo", "Bruselas", "Bégica", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
     },
 
     "<span class='subrayado5'>Sede del Consejo </span>": {
-        "texto": "La sede del Consejo de la Unión Europea (Consejo) se establece en <span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/> <br> <img width='15' height='15' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207114804-c56e1a9d-xl.gif' alt='chincheta' /> Salvo en los meses <span class=blue>A-J-O</span> ( Abril [<span class='blue'>4</span>] + Junio [<span class='blue'>6</span>] = Octubre [<span class='blue'>10</span>] celebradas en <span class='color5'>Luxemburgo</span> ) <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122438-f7fc6a8b-xs.png' alt='chincheta'/>",
+        "texto": "La sede del Consejo de la Unión Europea (Consejo) se establece en <span class='color5'>Bruselas</span> (Bélgica) <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/> <br> <img width='30' height='30' src='https://img.academia-geopol.es/upload/2025/02/10/20250210105016-81436482.png' alt='chincheta'/> Salvo en los meses <span class=blue>A-J-O</span> ( Abril [<span class='blue'>4</span>] + Junio [<span class='blue'>6</span>] = Octubre [<span class='blue'>10</span>] celebradas en <span class='color5'>Luxemburgo</span> ) <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122438-f7fc6a8b-xs.png' alt='chincheta'/>",
         "hashtags": ["Consejo", "Bruselas","Luxemburgo","Bélgica", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
     },
 
@@ -215,7 +215,7 @@
 
 
     "<span class='subrayado5'>Sedes del Parlamento Europeo</span>": {       
-        "texto": "<span class='color5'>Estrasburgo</span> (Francia) <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/>  <br> <img width='15' height='15' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207114804-c56e1a9d-xl.gif' alt='chincheta' /> Sus Comisiones y sesiones ADICIONALES las encontramos en <span class='color5'>Bruselas</span> <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/> <br> <img width='15' height='15' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207114804-c56e1a9d-xl.gif' alt='chincheta' /> Su Secretaría General la encontramos en <span class='color5'>Luxemburgo</span> <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122438-f7fc6a8b-xs.png' alt='chincheta'/>",
+        "texto": "<span class='color5'>Estrasburgo</span> (Francia) <img width='30' height='20' src='https://img.academia-geopol.es/i.php?/upload/2025/02/07/20250207122503-52d92ac2-xx.png' alt='chincheta'/>  <br> <img width='30' height='30' src='https://img.academia-geopol.es/upload/2025/02/10/20250210105016-81436482.png' alt='chincheta'/> Sus Comisiones y sesiones ADICIONALES las encontramos en <span class='color5'>Bruselas</span> <img width='30' height='20' src='https://img.academia-geopol.es/upload/2025/02/07/20250207122418-92e80fad.png' alt='chincheta'/> <br> <img width='30' height='30' src='https://img.academia-geopol.es/upload/2025/02/10/20250210105016-81436482.png' alt='chincheta'/> Su Secretaría General la encontramos en <span class='color5'>Luxemburgo</span> <img width='30' height='20' src='https://img.academia-geopol.es/_data/i/upload/2025/02/07/20250207122438-f7fc6a8b-xs.png' alt='chincheta'/>",
         "hashtags": ["sesiones", "adicionales", "comisiones", "Parlamento", "europeo", "Estrasburgo","francia", "luxemburgo", "Unión","Europea", "sedes","jurídicas", "Geopol"]                                       
     },
 
@@ -331,9 +331,6 @@
 
 
 
-            
-
-
 
 
  
@@ -343,6 +340,12 @@
         "hashtags": ["CETSE", "Centro", "Tecnológico", "Seguridad", "Pardo", "Ministerio","Interior", "sedes","jurídicas", "Geopol"]     
 }                                  
 },
+
+
+
+ 
+
+
 
 
 
@@ -369,7 +372,7 @@
  
      "Ley 8/2011": {
         "<span class='subrayado2'>El Catálogo Nacional de Infraestructuras Estratégicas</span>": {
-            "texto": "Tiene, conforme a lo dispuesto en la legislación vigente en materia de secretos oficiales, la calificación de <span class='color2'>secreto</span>.",
+            "texto": "Tiene la calificación de <span class='color2'>secreto</span>.",
             "hashtags": ["CNIE", "catálogo", "nacional", "infraestructuras", "estratégicas", "secreto", "Ley8/2011", "PIC", "jurídicas", "caracteres", "Geopol"]
         },
 
@@ -380,9 +383,23 @@
 
         "<span class='subrayado6'>Dependencia orgánica del CNPIC </span>": {         
                     "texto": " Dependencia <span class='color6'>orgánica</span> de <span class='color3'>la Secretaría de Estado de Seguridad</span>.",
-                    "hashtags": ["CNPIC", "centro", "nacional", "protección", "infraestructuras", "críticas", "Pardo", "PIC","jurídicas", "OTROS", "Geopol"]                                       
+                    "hashtags": ["CNPIC", "centro", "nacional", "protección", "infraestructuras", "críticas", "PIC","jurídicas", "OTROS", "Geopol"]                                       
         }
     },
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
 
 
 
@@ -438,37 +455,7 @@
 
 
 
-"LO 9/2015": {
-    "<span class='subrayado1'>Catálogo de puestos de trabajo</span>": {
-        "texto": "La distribución de los puestos de trabajo en el catálogo se ordena, como no puede ser de otra manera, conforme al <span class='color1'>principio de jerarquía</span> 👑",
-        "hashtags": ["jerarquía", "LO9/2015", "policía", "principios","jurídicas", "Geopol"]
-    },
 
-"<span class='subrayado1'>Derechos individuales</span>": {
-        "texto": "A la progresión en la carrera profesional y a la promoción interna conforme a los <span class='color1'>principios de igualdad, mérito, capacidad y antigüedad</span>, y de acuerdo con los requisitos establecidos en esta Ley Orgánica. <span class='blue'>Progresión a la C-I-M-A🗻</span>",
-        "hashtags": ["igualdad", "mérito", "capacidad", "antigüedad", "LO9/2015", "policía","jurídicas", "principios", "Geopol"]
-    },
-
-
-    "<span class='subrayado1'>A la adscripción y desempeño de un puesto de trabajo</span></span>": {
-        "texto": "A la adscripción y desempeño de un puesto de trabajo de su escala, categoría o subgrupo de clasificación, conforme a los <span class='color1'>principios</span> <span class='blue'>M-A-C</span>🍔  de <span class='color1'>mérito, capacidad y antigüedad</span></span>  y de acuerdo con los requisitos establecidos reglamentariamente en los procedimientos de provisión de puestos de trabajo",
-        "hashtags": ["mérito", "capacidad", "antigüedad", "LO9/2015", "policía","jurídicas", "principios", "Geopol"]
-    },
-
-    "<span class='subrayado1'>Ingreso en la Policía Nacional</span></span>": {
-        "texto": "El ingreso en la Policía Nacional se llevará a cabo conforme a los <span class='color1'>principios constitucionales de igualdad, mérito y capacidad</span>, mediante la superación sucesiva por los aspirantes de las distintas fases que integren el proceso de selección.<br>  <img width='15' height='15' src='https://cloud.academia-geopol.com/apps/sharingpath/Pancho/GEOPOL%202.0/Buscador/Imágenes/flecha-animada.gif' alt='chincheta' />El proceso de selección responderá, además de a los principios constitucionales señalados a:<BR> a) Publicidad de las convocatorias y de sus bases. <br>b) Transparencia. <br>c) Objetividad. <br>d) Imparcialidad y profesionalidad de los miembros de los órganos de selección. <br>e) Independencia y discrecionalidad técnica en la actuación de los órganos de selección.<br>f) Adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar.",
-        "hashtags": ["mérito", "capacidad", "igualdad", "LO9/2015", "policía","jurídicas", "principios", "Geopol"]
-    },
-
-
-    "<span class='subrayado1'>Profesorado</span></span>": {
-        "texto": ". El profesorado de los centros docentes estará compuesto por Policías Nacionales. El procedimiento de provisión de los puestos de trabajo de los centros docentes se regirá por los <span class='color1'>principios</span> <span class='blue'>I-M-C💪🏼/M-I-Cados🍫</span> <span class='color1'>de igualdad, mérito y capacidad</span>, en orden a garantizar una selección objetiva, eficaz y transparente del profesorado",
-        "hashtags": ["mérito", "capacidad", "igualdad", "LO9/2015", "policía","jurídicas", "principios", "Geopol"]
-    }
-
-
-
-},    
 
 
 
@@ -548,7 +535,7 @@
 
             "<span class='subrayado2'>Organización de Unidades de PJ</span>": {
                 "texto": "  El Ministerio del Interior organizará con funcionarios de las FCSE que cuenten con la adecuada formación especializada, Unidades de Policía Judicial, atendiendo a criterios territoriales y de especialización delictual, a las que corresponderá esta función con <span class='color2'>carácter permanente y especial</span>.",
-                "hashtags": ["permanente", "y", "especial","LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+                "hashtags": ["permanente", "especial","LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
             },
 
             "<span class='subrayado2'>Carácter exclusivo de los funcionarios adscritos a PJ</span>": {
@@ -568,29 +555,29 @@
            
             "<span class='subrayado2'>Competencias del CPS</span>": {
                 "texto": "Una de las competencias del Consejo de Política de Seguridad es <span class='blue'>A</span>probar directivas y recomendaciones de <span class='color2'>carácter general</span> (<span class='blue'>A-Í-A-Í</span>).",
-                "hashtags": [ "general", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+                "hashtags": [ "Consejo", "Política", "Seguridad","general", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
             },
            
             "<span class='subrayado2'>Competencias del Comité de Expertos</span>": {
                 "texto": "Tendrá la misión de asesorar técnicamente a aquél y preparar los asuntos que posteriormente vayan a ser debatidos en el Pleno del mismo y con <span class='color2'>carácter específico</span>:<br> 1. Elaborar y proponer fórmulas de coordinación. <br>2. Preparar acuerdos de cooperación. <br> 3. Proponer programas de formación y perfeccionamiento de las Policías. <br> 4. Elaborar planes de actuación conjunta. (<span class='blue'>P-E-P-E</span>).",
-                "hashtags": [ "general", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
+                "hashtags": [ "Comité", "Expertos", "LO2/1986", "policía", "caracteres","jurídicas", "geopol"]
             },
            
            
             "<span class='subrayado3'>Composición del CPS</span>": {
                 "texto": " El Consejo de Política de Seguridad, estará presidido por <span class='color3'><u>el Ministro del Interior</u></span> e integrado por <span class='color3'>los Consejeros de Interior o Gobernación de las CCAA</span> y por <span class='color3'>un número igual de representantes del Estado designados por el Gobierno de la Nación</span>.",
-                "hashtags": [ "Consejo de Política de Seguridad", "LO2/1986", "policía", "órganos","jurídicas", "geopol"]
+                "hashtags": [ "Consejo", "Política", "Seguridad", "LO2/1986", "policía", "órganos","jurídicas", "geopol"]
             },
 
             "<span class='subrayado3'>Comité de Expertos</span>": {
                 "texto": " Estará integrado por <span class='color3'>8 representantes, 4 del Estado y 4 de las CCAA</span>, designados estos últimos anualmente por los miembros del CPS que representen a las CCAA.",
-                "hashtags": [ "Comité", "de", "Expertos", "LO2/1986", "policía", "órganos","jurídicas", "geopol"]
+                "hashtags": [ "Comité", "Expertos", "LO2/1986", "policía", "órganos","jurídicas", "geopol"]
             },
 
             
             "<span class='subrayado3'>Las Juntas de Seguridad</span>": {
                 "texto": " En las CCAA que dispongan de Cuerpos de Policía propios <u>podrá </u></u> constituirse una Junta de Seguridad, integrada por <span class='color3'>igual número de representantes del Estado y de las Comunidades Autónomas</span>, con la misión de <u>coordinar la actuación de las FCSE y de los Cuerpos de Policía de las CCAA, en los términos que reglamentariamente se determinen</u>",
-                "hashtags": [ "Juntas", "de" ,"Seguridad","LO2/1986", "policía", "órganos","jurídicas", "geopol"]
+                "hashtags": [ "Juntas", "Seguridad","LO2/1986", "policía", "órganos","jurídicas", "geopol"]
             },
 
             
@@ -600,6 +587,44 @@
                 "hashtags": [ "1","a\u00f1o", "un","LO2/1986", "policía", "plazos","jurídicas", "geopol"]
             }
 
+        },
+
+
+
+
+"LO 9/2015": {
+    "<span class='subrayado1'>Catálogo de puestos de trabajo</span>": {
+        "texto": "La distribución de los puestos de trabajo en el catálogo se ordena conforme al <span class='color1'>principio de jerarquía</span> 👑",
+        "hashtags": ["jerarquía", "LO9/2015", "policía", "principios","jurídicas", "Geopol"]
+    },
+
+"<span class='subrayado1'>Derechos individuales</span>": {
+        "texto": "A la progresión en la carrera profesional y a la promoción interna conforme a los <span class='color1'>principios de igualdad, mérito, capacidad y antigüedad</span>, y de acuerdo con los requisitos establecidos en esta Ley Orgánica. <span class='blue'>Progresión a la C-I-M-A🗻</span>",
+        "hashtags": ["igualdad", "mérito", "capacidad", "antigüedad", "LO9/2015", "policía","jurídicas", "principios", "Geopol"]
+    },
+
+
+    "<span class='subrayado1'>A la adscripción y desempeño de un puesto de trabajo</span></span>": {
+        "texto": "A la adscripción y desempeño de un puesto de trabajo de su escala, categoría o subgrupo de clasificación, conforme a los <span class='color1'>principios</span> <span class='blue'>M-A-C</span>🍔  de <span class='color1'>mérito, capacidad y antigüedad</span></span>  y de acuerdo con los requisitos establecidos reglamentariamente en los procedimientos de provisión de puestos de trabajo",
+        "hashtags": ["mérito", "capacidad", "antigüedad", "LO9/2015", "policía","jurídicas", "principios", "Geopol"]
+    },
+
+    "<span class='subrayado1'>Ingreso en la Policía Nacional</span></span>": {
+        "texto": "El ingreso en la Policía Nacional se llevará a cabo conforme a los <span class='color1'>principios constitucionales de igualdad, mérito y capacidad</span>, mediante la superación sucesiva por los aspirantes de las distintas fases que integren el proceso de selección.<br>  <img width='30' height='30' src='https://img.academia-geopol.es/upload/2025/02/10/20250210105016-81436482.png' alt='chincheta'/>El proceso de selección responderá, además de a los principios constitucionales señalados a:<BR> a) Publicidad de las convocatorias y de sus bases. <br>b) Transparencia. <br>c) Objetividad. <br>d) Imparcialidad y profesionalidad de los miembros de los órganos de selección. <br>e) Independencia y discrecionalidad técnica en la actuación de los órganos de selección.<br>f) Adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar.",
+        "hashtags": ["mérito", "capacidad", "igualdad", "LO9/2015", "policía","jurídicas", "principios", "Geopol"]
+    },
+
+    
+    "<span class='subrayado1'>Profesorado</span></span>": {
+        "texto": ". El profesorado de los centros docentes estará compuesto por Policías Nacionales. El procedimiento de provisión de los puestos de trabajo de los centros docentes se regirá por los <span class='color1'>principios</span> <span class='blue'>I-M-C💪🏼/M-I-Cados🍫</span> <span class='color1'>de igualdad, mérito y capacidad</span>, en orden a garantizar una selección objetiva, eficaz y transparente del profesorado",
+        "hashtags": ["mérito", "capacidad", "igualdad", "LO9/2015", "policía","jurídicas", "principios", "Geopol"]
+    }
+    
 
         }
     }
+
+
+
+
+    
